@@ -1,4 +1,4 @@
-# Smart car Parking System using 8051 Microcontroller
+# Smart Car Parking System using 8051 Microcontroller
 ## Overview
 The Smart Car Parking System is designed to provide an efficient, reliable, and automated solution to modern parking challenges. It is built using an 8051 microcontroller, IR sensors, servo motors, and an LCD display.
 
