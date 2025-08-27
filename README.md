@@ -48,29 +48,21 @@ By automating the process of detecting vehicles, managing gates, and updating sl
 
 ## Advantages:
 
-### Accurate Vehicle Detection: 
-- IR sensors ensure reliable detection of vehicles at both entry and exit.
+- Accurate Vehicle Detection: IR sensors ensure reliable detection of vehicles at both entry and exit.
 
-### Automatic Gate Control:
-- Servo motors automate gate operations, removing the need for manual effort.
+- Automatic Gate Control: Servo motors automate gate operations, removing the need for manual effort.
 
-### Real-Time Updates: 
-- Drivers are informed instantly about available slots on the LCD.
+- Real-Time Updates: Drivers are informed instantly about available slots on the LCD.
 
-### Improved Security: 
-- Unauthorized entry is prevented as the system only allows cars when slots are available.
+- Improved Security: Unauthorized entry is prevented as the system only allows cars when slots are available.
 
-### Optimized Space Utilization: 
-- Slot counts are managed efficiently, ensuring maximum use of available space.
+- Optimized Space Utilization: Slot counts are managed efficiently, ensuring maximum use of available space.
 
-### Cost-Effective Solution: 
-- Using an 8051 microcontroller keeps the system affordable and easy to maintain.
+- Cost-Effective Solution: Using an 8051 microcontroller keeps the system affordable and easy to maintain.
 
-### User-Friendly: 
-- Simple interface and automatic operation make it convenient for drivers.
+- User-Friendly: Simple interface and automatic operation make it convenient for drivers.
 
-### Scalability: 
-- The system can be expanded for larger parking lots by adding more sensors and displays.
+- Scalability: The system can be expanded for larger parking lots by adding more sensors and displays.
 
 ## Code 
   - <a href="https://github.com/HariharanNedunchezhiyan/Car-Parking-System-using-8051-MicroController/blob/main/Code" > Code
